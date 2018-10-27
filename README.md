@@ -1,2 +1,3 @@
 # Bare-Essentials-DL
-An elaborately commented version of the complete 101 for deep learning from Michael Nielson's Neural Networks and Deep Learning
+An elaborately commented version of the complete 101 for deep learning from Michael Nielson's Neural Networks and Deep Learning.
+In his book, Michael Nielson presents a complete explanation of his approach to the neural networks created without using special libraries (except using numpy and pandas for the data and calculation handling and faster matrix operations.) This version of mine is only richly commented in a way that helps me understand the concept much more clearly. Further modifications and code usage will be aimed at implementing this code on a pickled data set of Nepali/Devanagari character set and numerals.
